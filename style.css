@@ -144,11 +144,14 @@ body {
       .custom-next-button {
         width: 26.75rem;
       }
-
+      
       .slide-3 iframe{
         width: 32rem;
         aspect-ratio: 16 / 9;
-    }
+      }
+
+
+    
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -186,6 +189,7 @@ body {
         width: 56rem;
         aspect-ratio: 16 / 9;
     }
+    
 }
 
 
